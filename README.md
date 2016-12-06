@@ -4,6 +4,7 @@ this project is a practice project and homework which I learn Virtual Reality Na
 1. Download the Google **CardBoard VR Practice** folder
 2. Open Unity and then select the file path which the folder in your Computer. (Such as my path: "E:\UdacityGit\Google CardBoard VR Practice")  
 3. Wait some seconds for  unity compile the programe and you can run this project in the unity.
+
 # Build for Android
 1. Make sure you have installed **UnitySetup-Android-Support-for-Editor**. If not, you can download [this](https://unity3d.com/cn/get-unity/download/archive?_ga=1.155128504.1812536293.1468766837)  
 2. Select File->Build Settings and select Android in the Platform area, click **Switch Platform** button.
